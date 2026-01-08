@@ -1,8 +1,20 @@
-# React + Vite
+# Muscle Think Fitness 💪
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive gym website built using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🔥 Features
+- Clean and modern UI
+- Fully responsive design
+- BMI Calculator with instant results
+- Contact form with email integration
+- Pricing plans section
+- Fitness-focused landing page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React
+- Tailwind CSS
+- JavaScript
+
+
+## 📌 Note
+This is a **frontend-only project**. Backend features are planned for future updates.
